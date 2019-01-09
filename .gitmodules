@@ -4,3 +4,6 @@
 [submodule "SecLists"]
 	path = SecLists
 	url = https://github.com/danielmiessler/SecLists
+[submodule "sqlmap"]
+        path = sqlmap
+	url = https://github.com/sqlmapproject/sqlmap
