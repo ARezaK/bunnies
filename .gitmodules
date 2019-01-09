@@ -1,0 +1,6 @@
+[submodule "subbrute"]
+	path = subbrute
+	url = https://github.com/ARezaK/subbrute
+[submodule "DomLink"]
+	path = DomLink
+	url = https://github.com/ARezaK/DomLink
