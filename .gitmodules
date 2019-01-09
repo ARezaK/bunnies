@@ -1,6 +1,3 @@
 [submodule "subbrute"]
 	path = subbrute
 	url = https://github.com/TheRook/subbrute
-[submodule "sqlmap"]
-        path = sqlmap
-	url = https://github.com/sqlmapproject/sqlmap
