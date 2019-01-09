@@ -12,6 +12,8 @@ parser.add_argument('-d', '--domlink')
 parser.add_argument('-s', '--sqlmap')
 parser.add_argument('-n', '--snallygaster')
 
+# e.g. python main.py -t shit.com -n true
+
 args = parser.parse_args()
 
 target = args.target
